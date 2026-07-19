@@ -5,9 +5,9 @@
 
 **Стек:** Python, VS Code, Git, GitHub
 
--Этот файл создан командами_
+_Этот_ _файл_ _создан_ _командами_
 ```
-touch
+touch readme.md
 git add readme.md
 git commit -m readme.md
 git push
